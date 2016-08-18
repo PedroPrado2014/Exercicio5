@@ -12,6 +12,8 @@ and open the template in the editor.
     
     Vamolaoleeeeos gerar o erro nesta codificação, Vai Alemanha !!!!!!
     Eduardo você e muito viciado em pokemon Go 
+    
+    Mais um conflito...
        
     Gerar Conflito...
     
