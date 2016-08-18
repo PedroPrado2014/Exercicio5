@@ -12,7 +12,7 @@ and open the template in the editor.
     
     Vamolaoleeeeos gerar o erro nesta codificação, Vai Alemanha !!!!!!
     Eduardo você e muito viciado em pokemon Go 
-       
+    Muitos conflitos nesta codificação 
     Gerar Conflito...
     
     <body>
