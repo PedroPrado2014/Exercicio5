@@ -7,11 +7,15 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Erro</title>
     </head>
+    
+    Vamos gerar o erro nesta codificação, Vai Alemanha !!!!!!
+    
     <body>
         <?php
-        // Teste da Mesclagem 
+        // 
         ?>
     </body>
 </html>
+l
