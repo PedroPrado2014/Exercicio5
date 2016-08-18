@@ -11,9 +11,7 @@ and open the template in the editor.
     </head>
     
     Vamolaoleeeeos gerar o erro nesta codificação, Vai Alemanha !!!!!!
-    Eduardo você e muito viciado em pokemon Go 
-    Muitos conflitos nesta codificação 
-    Gerar Conflito...
+    Eduardo você e muito viciado em pokemon Go
     
     <body>
         <?php
