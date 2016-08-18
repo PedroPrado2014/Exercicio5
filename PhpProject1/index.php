@@ -10,8 +10,7 @@ and open the template in the editor.
         <title>Erro</title>
     </head>
     
-    Vamolaoleeeeos gerar o erro nesta codificação, Vai Alemanha !!!!!!
-    Eduardo você e muito viciado em pokemon Go
+    gerando um conflito...
     
     <body>
         <?php
