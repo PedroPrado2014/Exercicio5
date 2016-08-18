@@ -10,11 +10,11 @@ and open the template in the editor.
         <title>Erro</title>
     </head>
     
-    Vamos gerar o erro nesta codificação, Vai Alemanha !!!!!!
+    Gerar Conflito...
     
     <body>
         <?php
-        Gerar Conflito...
+        
         ?>
     </body>
 </html>
