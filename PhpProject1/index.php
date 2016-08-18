@@ -11,10 +11,12 @@ and open the template in the editor.
     </head>
     
     Vamolaoleeeeos gerar o erro nesta codificação, Vai Alemanha !!!!!!
-        
+       
+    Gerar Conflito...
+    
     <body>
         <?php
-        // 
+        
         ?>
     </body>
 </html>
